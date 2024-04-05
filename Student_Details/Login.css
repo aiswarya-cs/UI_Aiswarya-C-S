@@ -1,0 +1,36 @@
+.login_outer_div{
+    width: 50%;
+    height: 350px;
+    margin: 10%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20%;
+}
+.heading{
+    text-align: center;
+    margin-top: 15px;
+    color: brown;
+    font-size: 50px;
+}
+.form{
+    width: 80%;
+    height: 40px;
+    border-radius: 20px;
+    margin: 5px;
+}.button{
+    width: 100px;
+    height: 50px;
+    background: rgb(20, 51, 20) !important;
+    border: none;
+    border-radius: 50px;
+    margin-top: 5px !important;
+    margin-bottom: 10px !important;
+    color: #fff !important;
+    margin-left: 40%;
+}
+.button:hover{
+    background: rgb(40, 68, 40);
+    color: rgb(218, 219, 219);
+    cursor: pointer;
+}
